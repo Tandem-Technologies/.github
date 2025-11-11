@@ -10,15 +10,3 @@
 -->
 
 ![Tandem Logo](../assets/Tandem%20Logo%20Wide.png)
-
-## Current Projects
-
-Coming Soon
-
-## Contribution Guidelines
-
-Coming Soon
-
-## Useful Resources
-
-Coming Soon
